@@ -1,23 +1,10 @@
-<div align="center">
-  <img src="https://your-header-image-url.jpg" alt="Header" width="100%">
-</div>
 
 <h1 align="center">Hola 👋, Soy Camilo Hernández</h1>
 <h3 align="center">Un apasionado desarrollador de Colombia</h3>
 
 <p align="center">
-  <a href="https://twitter.com/hrcamilo04" target="blank"><img src="https://img.shields.io/twitter/follow/tu_usuario?logo=twitter&style=for-the-badge" alt="@hrcamilo04" /></a>
+  <a href="https://twitter.com/hrcamilo04" target="blank"><img src="https://img.shields.io/twitter/follow/hrcamilo04?logo=twitter&style=for-the-badge" alt="@hrcamilo04" /></a>
 </p>
-
----
-
-### 🚀 Sobre mí
-- 🌱 Soy Estudiante de **Ingenieria de Sistemas e Informatica e Ingenieria en Ciencias de Datos**
-- 👯 Busco colaborar en **proyectos de código abierto**
-- 💬 Pregúntame sobre **PHP, React, Node.js, y desarrollo web full-stack**
-- 📫 Cómo contactarme: **hrcamilo11@gmail.com**
-
----
 
 ### 🛠️ Lenguajes y Herramientas
 
@@ -45,6 +32,15 @@
 ### 📈 Gráfico de Actividad
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrcamilo11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
+### 🚀 Sobre mí
+- 🌱 Soy Estudiante de **Ingenieria de Sistemas e Informatica e Ingenieria en Ciencias de Datos**
+- 👯 Busco colaborar en **proyectos de código abierto**
+- 💬 Pregúntame sobre **PHP, React, Node.js, y desarrollo web full-stack**
+- 📫 Cómo contactarme: **hrcamilo11@gmail.com**
 
 ---
 
