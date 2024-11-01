@@ -47,8 +47,8 @@
 ### 🌐 Conéctate conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/hrcamilo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrcamilo11" height="30" width="40" /></a>
-  <a href="https://twitter.com/hrcamilo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu_usuario" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/camilo-hernandez-44b79b149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrcamilo11" height="30" width="40" /></a>
+  <a href="https://twitter.com/hrcamilo04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu_usuario" height="30" width="40" /></a>
   <a href="https://dev.to/hrcamilo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hrcamilo11" height="30" width="40" /></a>
 </p>
 
