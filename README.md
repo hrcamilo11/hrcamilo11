@@ -23,7 +23,10 @@
 
 ### 📊 Estadísticas de GitHub
 
-[![hrcamilo11's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hrcamilo11)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrcamilo11&show_icons=true&theme=radical" alt="Estadísticas de GitHub" /> 
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrcamilo11&theme=radical" alt="GitHub Streak" />
