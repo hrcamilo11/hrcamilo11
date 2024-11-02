@@ -36,7 +36,7 @@
 
 ### 📈 Gráfico de Actividad
 
-[!([hrcamilo11's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrcamilo11&bg_color=000000&color=4c5d9e&line=233d7b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))]
+[![hrcamilo11's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrcamilo11&bg_color=000000&color=4c5d9e&line=233d7b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
