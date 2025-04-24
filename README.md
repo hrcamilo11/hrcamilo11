@@ -31,6 +31,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrcamilo11&theme=radical" alt="GitHub Streak" />
 </div>
 
+
+<div align="center">
+ ![Hrcamilo11's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hrcamilo11\&layout=compact)
+</div>
+
 ---
 
 
