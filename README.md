@@ -1,6 +1,5 @@
 
 <h1 align="center">Hola 👋, Soy Camilo Hernández</h1>
-<h3 align="center">Un apasionado desarrollador de Colombia</h3>
 
 <p align="center">
   <a href="https://twitter.com/hrcamilo04" target="blank"><img src="https://img.shields.io/twitter/follow/hrcamilo04?logo=twitter&style=for-the-badge" alt="@hrcamilo04" /></a>
