@@ -31,11 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrcamilo11&theme=radical" alt="GitHub Streak" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hrcamilo11\&layout=compact") />
-</div>
-
 ---
 
 
@@ -43,8 +38,7 @@
 
 ### 📈 Gráfico de Actividad
 
-[![hrcamilo11's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrcamilo11&bg_color=000000&color=4c5d9e&line=233d7b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![hrcamilo11's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrcamilo11&bg_color=000000&color=ffffff&line=4c9e95&point=2d439a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
