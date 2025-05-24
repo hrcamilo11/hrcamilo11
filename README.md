@@ -1,4 +1,8 @@
 
+![](./src/Bottom_up.svg)
+
+<!--   my-header-img -->
+![](./src/header_.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=600&color=980500&vCenter=true&width=600&height=80&lines=Hola+%F0%9F%91%8B+Mundo;Hola+%F0%9F%91%8B%2C+Soy+Camilo+Hern%C3%A1ndez;ERROR+404;NOT+FOUND;OR+NOT%3F)](https://git.io/typing-svg)
 
 
@@ -71,3 +75,7 @@ counting of visitors to this page in this section started from May 7, 2025
 
 ![](https://count.getloli.com/get/@hrcamilo11.github.readme)
 </br>
+
+
+
+![](./src/Bottom_down.svg)
