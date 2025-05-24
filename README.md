@@ -33,7 +33,7 @@
 
 
 <div align="center">
- ![Hrcamilo11's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hrcamilo11\&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hrcamilo11\&layout=compact") />
 </div>
 
 ---
