@@ -1,5 +1,6 @@
 
-<h1 align="center">Hola 👋, Soy Camilo Hernández</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=600&color=980500&vCenter=true&width=600&height=80&lines=Hola+%F0%9F%91%8B+Mundo;Hola+%F0%9F%91%8B%2C+Soy+Camilo+Hern%C3%A1ndez;ERROR+404;NOT+FOUND;OR+NOT%3F)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://twitter.com/hrcamilo04" target="blank"><img src="https://img.shields.io/twitter/follow/hrcamilo04?logo=twitter&style=for-the-badge" alt="@hrcamilo04" /></a>
@@ -60,6 +61,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrcamilo11&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="hrcamilo11" />
-</div>
+### Profile Views
+counting of visitors to this page in this section started from May 7, 2025
+
+![](https://count.getloli.com/get/@hrcamilo11.github.readme)
+</br>
