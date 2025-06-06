@@ -1,6 +1,3 @@
-
-![](./src/Bottom_up.svg)
-
 <!--   my-header-img -->
 ![](./src/header_.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=600&color=980500&vCenter=true&width=600&height=80&lines=Hola+%F0%9F%91%8B+Mundo;Hola+%F0%9F%91%8B%2C+Soy+Camilo+Hern%C3%A1ndez;ERROR+404;NOT+FOUND;OR+NOT%3F)](https://git.io/typing-svg)
@@ -10,30 +7,22 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,js,ts,react,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=php,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,figma&perline=7" />
   </a>
 </p>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,mongodb,postgres,docker,git,github,figma" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrcamilo11&theme=radical&layout=compact" alt="Estadísticas de GitHub" /> 
-</div>
----
 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrcamilo11&show_icons=true&theme=radical" alt="Estadísticas de GitHub" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=hrcamilo11&theme=dracula&show_icons=true&hide_border=true&count_private=true"/> 
 </div>
-
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrcamilo11&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrcamilo11&theme=dracula&hide_border=true"/> 
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrcamilo11&theme=dracula&show_icons=true&hide_border=true&layout=compact"/> 
+</div>
+
 
 ---
 
@@ -43,11 +32,6 @@
 ### 📈 Gráfico de Actividad
 
 [![hrcamilo11's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrcamilo11&bg_color=000000&color=ffffff&line=4c9e95&point=2d439a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- dark snake -->
-![hrcamilo11's github activity graph](https://raw.githubusercontent.com/bepb/bepb/output/github-contribution-grid-snake-dark.svg)
-
-
 
 ---
 
