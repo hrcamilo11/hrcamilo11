@@ -6,10 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=600&color=980500&vCenter=true&width=600&height=80&lines=Hola+%F0%9F%91%8B+Mundo;Hola+%F0%9F%91%8B%2C+Soy+Camilo+Hern%C3%A1ndez;ERROR+404;NOT+FOUND;OR+NOT%3F)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <a href="https://twitter.com/hrcamilo04" target="blank"><img src="https://img.shields.io/twitter/follow/hrcamilo04?logo=twitter&style=for-the-badge" alt="@hrcamilo04" /></a>
-</p>
-
 ### 🛠️ Lenguajes y Herramientas
 
 <p align="center">
@@ -64,7 +60,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/camilo-hernandez-44b79b149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrcamilo11" height="30" width="40" /></a>
-  <a href="https://twitter.com/hrcamilo04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu_usuario" height="30" width="40" /></a>
   <a href="https://dev.to/camilo_hernandez_8649095f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hrcamilo11" height="30" width="40" /></a>
 </p>
 
