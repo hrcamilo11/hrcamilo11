@@ -19,6 +19,9 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrcamilo11&theme=radical&layout=compact" alt="Estadísticas de GitHub" /> 
+</div>
 ---
 
 ### 📊 Estadísticas de GitHub
